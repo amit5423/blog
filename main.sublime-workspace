@@ -1,0 +1,345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sta",
+				"started"
+			],
+			[
+				"js",
+				"jsonStr"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"p",
+				"phone"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"de",
+				"Developer"
+			],
+			[
+				"W",
+				"worker"
+			],
+			[
+				"task",
+				"tasks"
+			],
+			[
+				"ta",
+				"taskLoad"
+			],
+			[
+				"Pr",
+				"Printf"
+			],
+			[
+				"Pri",
+				"Printf"
+			],
+			[
+				"go",
+				"goGroup"
+			],
+			[
+				"Ca",
+				"Catalog"
+			],
+			[
+				"cat",
+				"Category"
+			],
+			[
+				"De",
+				"Deatails"
+			],
+			[
+				"Print",
+				"Printf"
+			],
+			[
+				"pr",
+				"Product"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"Ke",
+				"Keyfeatures"
+			],
+			[
+				"Em",
+				"EmpInfo"
+			],
+			[
+				"E",
+				"Employee"
+			],
+			[
+				"Mart",
+				"Matrix2"
+			],
+			[
+				"ma",
+				"matrix1"
+			],
+			[
+				"St",
+				"StandardDeviation"
+			],
+			[
+				"elmen",
+				"elements"
+			],
+			[
+				"a",
+				"action"
+			],
+			[
+				"Prin",
+				"Println"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"P",
+				"Printf"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"r",
+				"reverse"
+			],
+			[
+				"t",
+				"tempNumber"
+			],
+			[
+				"gcd",
+				"gcdnum"
+			],
+			[
+				"te",
+				"temp2"
+			],
+			[
+				"tem",
+				"temp1"
+			],
+			[
+				"lcm",
+				"lcmnum"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 82.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/goweb/main.go",
+		"/C/golang/example39.go",
+		"/C/golang/example36.go",
+		"/C/golang/example38.go",
+		"/C/golang/example33.go",
+		"/C/golang/example30.go",
+		"/C/golang/interface.go",
+		"/C/golang/example29.go",
+		"/C/golang/maps.go",
+		"/C/golang/example16.go",
+		"/C/golang/slice.go",
+		"/C/golang/example27.go",
+		"/C/golang/example28.go",
+		"/C/golang/bild-master/slice.go",
+		"/C/Users/amit/Downloads/tensorflow-0.12.0-rc0/tensorflow-0.12.0-rc0/tensorflow/go/op/scope.go",
+		"/C/Users/amit/Downloads/tensorflow-0.12.0-rc0/tensorflow-0.12.0-rc0/tensorflow/go/util_test.go",
+		"/C/golang/example26.go",
+		"/C/golang/test.go",
+		"/C/golang/example25.go",
+		"/C/golang/example24.go",
+		"/C/golang/math.go",
+		"/C/golang/example23.go",
+		"/C/golang/example22.go",
+		"/C/golang/example21.go",
+		"/C/golang/arrays.go",
+		"/C/golang/example20.go",
+		"/C/golang/functions.go",
+		"/C/golang/example17.go",
+		"/C/golang/example18.go",
+		"/C/golang/example19.go",
+		"/C/golang/example15.go",
+		"/C/golang/example13.go",
+		"/C/golang/example14.go",
+		"/C/golang/example11.go",
+		"/C/golang/example6.go"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"”"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
